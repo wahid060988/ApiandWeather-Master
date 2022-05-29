@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/weather_background">
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Get Weather"
+        android:layout_centerInParent="true"
+        android:id="@+id/btVar1"
+        android:textSize="20dp"
+        android:padding="10dp"
+        android:background="@color/white" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="25dp"
+        android:textStyle="bold"
+        android:fontFamily="sans-serif-black"
+        android:layout_margin="40dp"
+        android:layout_marginBottom="100dp"
+        android:id="@+id/textView"
+        android:text="Get temperature here"
+        android:textColor="@color/white"/>
+
+</RelativeLayout>

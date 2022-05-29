@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Sample-App</string>
+    <string name="search">Search by name</string>
+
+    <!--Notification SnackBar -->
+    <string name="error_msg">Sorry, we can’t process your request right now. Please try again, later.</string>
+    <string name="no_internet_error_msg">No internet connection available. Please check the connection and try again, later.</string>
+    <string name="please_enter_valid_code_msg">Please enter valid code</string>
+    <string name="please_enter_valid_msg">Please enter valid</string>
+    <string name="error_msg_no_data">No data available</string>
+
+    <string name="something_went_wrong">Something went wrong. Please try again later</string>
+    <string name="search_no_result_found">No results found</string>
+    <string name="recent_search">Recent searched stars : </string>
+
+    <string name="detail_header">Details </string>
+    <string name="star_name">Name : </string>
+    <string name="star_gender">Gender : </string>
+    <string name="star_email">Email : </string>
+    <string name="star_phone">Phone : </string>
+    <string name="star_cell">Cell : </string>
+    <string name="star_nat">Nationality : </string>
+
+
+
+    <string name="next"><u>Next</u></string>
+    <string name="previous"><u>Previous</u></string>
+    <string name="cms">cms</string>
+    <string name="empty_space">\u0020</string>
+
+
+
+
+
+</resources>
